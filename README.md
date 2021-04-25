@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ##    Community Resources and Support
 
 ##### links
-[Install SuperCollider on Raspberry Pi by  @madskjeldgaard](https://gist.github.com/madskjeldgaard/8d5b2f0eeeb31fa53a922e6653fc703f)
+[Install SuperCollider on Raspberry Pi](https://github.com/supercollider/supercollider/blob/develop/README_RASPBERRY_PI.md)
 
 ##    Required Software List
 
